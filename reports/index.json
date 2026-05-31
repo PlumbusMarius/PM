@@ -4,6 +4,27 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-224715-bgvz",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-05-31T14:47:15.000Z",
+      "dateEnd": "2026-05-31T15:52:10.000Z",
+      "dateLabel": "5/31/2026, 10:47:15 PM - 5/31/2026, 11:52:10 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260531-224715-bgvz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260531-210651-py5r",
       "title": "Unknown Commander",
       "commanders": [],
