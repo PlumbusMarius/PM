@@ -24,27 +24,7 @@
         "avgEnemySize": 18
       }
     },
-    {
-      "id": "20260531-210651-py5r",
-      "title": "Unknown Commander",
-      "commanders": [],
-      "dateStart": "2026-05-31T13:06:51.000Z",
-      "dateEnd": "2026-05-31T16:19:20.000Z",
-      "dateLabel": "5/31/2026, 9:06:51 PM - 6/1/2026, 12:19:20 AM",
-      "url": "https://PlumbusMarius.github.io/PM/?report=20260531-210651-py5r",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 44,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 5,
-        "avgEnemySize": 18
-      }
-    },
+
     {
       "id": "20260529-224317-icny",
       "title": "Charmiiee",
