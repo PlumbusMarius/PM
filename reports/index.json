@@ -4,6 +4,32 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-204632-sc43",
+      "title": "Hannîè, Joshua Atreides, Phyrex The Unhinged, Stone Catwall",
+      "commanders": [
+        "Hannîè",
+        "Joshua Atreides",
+        "Phyrex The Unhinged",
+        "Stone Catwall"
+      ],
+      "dateStart": "2026-06-01T12:46:32.000Z",
+      "dateEnd": "2026-06-01T14:28:26.000Z",
+      "dateLabel": "6/1/2026, 8:46:32 PM - 6/1/2026, 10:28:26 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260601-204632-sc43",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260531-224715-bgvz",
       "title": "Unknown Commander",
       "commanders": [],
@@ -24,7 +50,6 @@
         "avgEnemySize": 18
       }
     },
-
     {
       "id": "20260529-224317-icny",
       "title": "Charmiiee",
