@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-233208-uynr",
+      "title": "Charmiiee, Down Attunement",
+      "commanders": [
+        "Charmiiee",
+        "Down Attunement"
+      ],
+      "dateStart": "2026-06-01T15:32:08.000Z",
+      "dateEnd": "2026-06-01T16:23:31.000Z",
+      "dateLabel": "6/1/2026, 11:32:08 PM - 6/2/2026, 12:23:31 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260601-233208-uynr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260601-204632-sc43",
       "title": "Hannîè, Joshua Atreides, Phyrex The Unhinged, Stone Catwall",
       "commanders": [
