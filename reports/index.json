@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-200401-wzz8",
+      "title": "Gillette Dull Blade, Josh Atreides",
+      "commanders": [
+        "Gillette Dull Blade",
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-06-08T12:04:01.000Z",
+      "dateEnd": "2026-06-08T13:57:02.000Z",
+      "dateLabel": "6/8/2026, 8:04:01 PM - 6/8/2026, 9:57:02 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260608-200401-wzz8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260601-233208-uynr",
       "title": "Charmiiee, Down Attunement",
       "commanders": [
