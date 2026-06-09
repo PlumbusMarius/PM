@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260609-211155-zqda",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-06-09T13:11:55.000Z",
+      "dateEnd": "2026-06-09T14:53:37.000Z",
+      "dateLabel": "6/9/2026, 9:11:55 PM - 6/9/2026, 10:53:37 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260609-211155-zqda",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260608-200401-wzz8",
       "title": "Gillette Dull Blade, Josh Atreides",
       "commanders": [
