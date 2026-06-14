@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-222411-cxfm",
+      "title": "Aang Omni Invoker",
+      "commanders": [
+        "Aang Omni Invoker"
+      ],
+      "dateStart": "2026-06-13T14:24:11.000Z",
+      "dateEnd": "2026-06-13T15:16:18.000Z",
+      "dateLabel": "6/13/2026, 10:24:11 PM - 6/13/2026, 11:16:18 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260613-222411-cxfm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260610-200900-9g37",
       "title": "Josh Atreides, Joshua Atreides",
       "commanders": [
