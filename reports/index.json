@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-214528-1s0e",
+      "title": "Gillette Dull Blade",
+      "commanders": [
+        "Gillette Dull Blade"
+      ],
+      "dateStart": "2026-06-15T13:45:28.000Z",
+      "dateEnd": "2026-06-15T14:21:59.000Z",
+      "dateLabel": "6/15/2026, 9:45:28 PM - 6/15/2026, 10:21:59 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260615-214528-1s0e",
+      "summary": {
+        "borderlandsPct": 0.6875,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260613-222411-cxfm",
       "title": "Aang Omni Invoker",
       "commanders": [
