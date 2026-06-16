@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-203727-6ox3",
+      "title": "Gillette Dull Blade, Josh Atreides, Kale Edin",
+      "commanders": [
+        "Gillette Dull Blade",
+        "Josh Atreides",
+        "Kale Edin"
+      ],
+      "dateStart": "2026-06-16T12:37:27.000Z",
+      "dateEnd": "2026-06-16T14:32:27.000Z",
+      "dateLabel": "6/16/2026, 8:37:27 PM - 6/16/2026, 10:32:27 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260616-203727-6ox3",
+      "summary": {
+        "borderlandsPct": 0.375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260616-203727-w5cj",
       "title": "Gillette Dull Blade, Josh Atreides, Kale Edin",
       "commanders": [
