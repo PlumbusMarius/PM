@@ -4,6 +4,27 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-163232-mrlz",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-06-17T08:32:32.000Z",
+      "dateEnd": "2026-06-17T08:58:28.000Z",
+      "dateLabel": "6/17/2026, 4:32:32 PM - 6/17/2026, 4:58:28 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260617-163232-mrlz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260616-203727-6ox3",
       "title": "Gillette Dull Blade, Josh Atreides, Kale Edin",
       "commanders": [
