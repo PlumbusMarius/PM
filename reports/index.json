@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-213410-938m",
+      "title": "Hänníè",
+      "commanders": [
+        "Hänníè"
+      ],
+      "dateStart": "2026-07-05T13:34:10.000Z",
+      "dateEnd": "2026-07-05T14:16:18.000Z",
+      "dateLabel": "7/5/2026, 9:34:10 PM - 7/5/2026, 10:16:18 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260705-213410-938m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260705-175200-kop8",
       "title": "Brax Play Havoc, Shy Meowditation",
       "commanders": [
