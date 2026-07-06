@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-163254-c1x2",
+      "title": "Brax Play Havoc, Brax The Furrious",
+      "commanders": [
+        "Brax Play Havoc",
+        "Brax The Furrious"
+      ],
+      "dateStart": "2026-07-06T08:32:54.000Z",
+      "dateEnd": "2026-07-06T09:42:07.000Z",
+      "dateLabel": "7/6/2026, 4:32:54 PM - 7/6/2026, 5:42:07 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260706-163254-c1x2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260705-213410-938m",
       "title": "Hänníè",
       "commanders": [
