@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-202238-x1v4",
+      "title": "Dodong Pagibig",
+      "commanders": [
+        "Dodong Pagibig"
+      ],
+      "dateStart": "2026-07-06T12:22:38.000Z",
+      "dateEnd": "2026-07-06T13:55:35.000Z",
+      "dateLabel": "7/6/2026, 8:22:38 PM - 7/6/2026, 9:55:35 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260706-202238-x1v4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260706-163254-ng0z",
       "title": "Brax Play Havoc, Brax The Furrious",
       "commanders": [
