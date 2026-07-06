@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-000952-l5va",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "dateStart": "2026-07-06T16:09:52.000Z",
+      "dateEnd": "2026-07-06T16:25:58.000Z",
+      "dateLabel": "7/7/2026, 12:09:52 AM - 7/7/2026, 12:25:58 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260707-000952-l5va",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260706-202238-x1v4",
       "title": "Dodong Pagibig",
       "commanders": [
