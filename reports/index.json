@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-200737-fspa",
+      "title": "Atreïdes",
+      "commanders": [
+        "Atreïdes"
+      ],
+      "dateStart": "2026-07-08T12:07:37.000Z",
+      "dateEnd": "2026-07-08T13:53:50.000Z",
+      "dateLabel": "7/8/2026, 8:07:37 PM - 7/8/2026, 9:53:50 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260708-200737-fspa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260707-000952-l5va",
       "title": "Chrono Kathréftis",
       "commanders": [
