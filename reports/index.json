@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-021928-lpz1",
+      "title": "Gael Redhood",
+      "commanders": [
+        "Gael Redhood"
+      ],
+      "dateStart": "2026-07-10T18:19:28.000Z",
+      "dateEnd": "2026-07-10T18:46:21.000Z",
+      "dateLabel": "7/11/2026, 2:19:28 AM - 7/11/2026, 2:46:21 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260711-021928-lpz1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260708-200737-fspa",
       "title": "Atreïdes",
       "commanders": [
