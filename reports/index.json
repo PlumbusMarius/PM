@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-172014-l5oi",
+      "title": "Brax The Righteous, Shy The Symbolic",
+      "commanders": [
+        "Brax The Righteous",
+        "Shy The Symbolic"
+      ],
+      "dateStart": "2026-07-12T09:20:14.000Z",
+      "dateEnd": "2026-07-12T10:42:58.000Z",
+      "dateLabel": "7/12/2026, 5:20:14 PM - 7/12/2026, 6:42:58 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260712-172014-l5oi",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260711-163953-ttyo",
       "title": "Brax Play Havoc",
       "commanders": [
