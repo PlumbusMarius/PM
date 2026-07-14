@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-202604-5lqy",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
+      ],
+      "dateStart": "2026-07-14T12:26:04.000Z",
+      "dateEnd": "2026-07-14T14:33:22.000Z",
+      "dateLabel": "7/14/2026, 8:26:04 PM - 7/14/2026, 10:33:22 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260714-202604-5lqy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260714-202604-42z3",
       "title": "Josh Atreides",
       "commanders": [
