@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-171400-ayk1",
+      "title": "Brax The Righteous, Pandemonium Brax",
+      "commanders": [
+        "Brax The Righteous",
+        "Pandemonium Brax"
+      ],
+      "dateStart": "2026-07-14T09:14:00.000Z",
+      "dateEnd": "2026-07-14T09:38:09.000Z",
+      "dateLabel": "7/14/2026, 5:14:00 PM - 7/14/2026, 5:38:09 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260714-171400-ayk1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260712-172014-l5oi",
       "title": "Brax The Righteous, Shy The Symbolic",
       "commanders": [
