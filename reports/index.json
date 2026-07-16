@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-165811-ddf4",
+      "title": "Pandemonium Brax",
+      "commanders": [
+        "Pandemonium Brax"
+      ],
+      "dateStart": "2026-07-16T08:58:11.000Z",
+      "dateEnd": "2026-07-16T09:39:18.000Z",
+      "dateLabel": "7/16/2026, 4:58:11 PM - 7/16/2026, 5:39:18 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260716-165811-ddf4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260714-202604-5lqy",
       "title": "Josh Atreides, King Tarävangian",
       "commanders": [
