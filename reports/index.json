@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-211044-0ddk",
+      "title": "Gillette Skinguard, Joshua Atreides",
+      "commanders": [
+        "Gillette Skinguard",
+        "Joshua Atreides"
+      ],
+      "dateStart": "2026-07-21T13:10:44.000Z",
+      "dateEnd": "2026-07-21T13:57:56.000Z",
+      "dateLabel": "7/21/2026, 9:10:44 PM - 7/21/2026, 9:57:56 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260721-211044-0ddk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260716-165811-ddf4",
       "title": "Pandemonium Brax",
       "commanders": [
