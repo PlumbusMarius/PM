@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-202358-lont",
+      "title": "Stone Catwall, Supforyour",
+      "commanders": [
+        "Stone Catwall",
+        "Supforyour"
+      ],
+      "dateStart": "2026-07-22T12:23:58.000Z",
+      "dateEnd": "2026-07-22T14:30:04.000Z",
+      "dateLabel": "7/22/2026, 8:23:58 PM - 7/22/2026, 10:30:04 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260722-202358-lont",
+      "summary": {
+        "borderlandsPct": 0.041666666666666664,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260721-211044-0ddk",
       "title": "Gillette Skinguard, Joshua Atreides",
       "commanders": [
