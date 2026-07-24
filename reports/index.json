@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-190919-tjx0",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "dateStart": "2026-07-24T11:09:19.000Z",
+      "dateEnd": "2026-07-24T11:58:06.000Z",
+      "dateLabel": "7/24/2026, 7:09:19 PM - 7/24/2026, 7:58:06 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260724-190919-tjx0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260724-175709-egcj",
       "title": "Pandemonium Brax",
       "commanders": [
