@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-205955-alwc",
+      "title": "Deyjä",
+      "commanders": [
+        "Deyjä"
+      ],
+      "dateStart": "2026-07-25T12:59:55.000Z",
+      "dateEnd": "2026-07-25T13:28:48.000Z",
+      "dateLabel": "7/25/2026, 8:59:55 PM - 7/25/2026, 9:28:48 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260725-205955-alwc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260725-200835-nxk5",
       "title": "Boss Vader, Inflame Z",
       "commanders": [
