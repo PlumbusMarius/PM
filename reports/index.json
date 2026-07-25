@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-200835-nxk5",
+      "title": "Boss Vader, Inflame Z",
+      "commanders": [
+        "Boss Vader",
+        "Inflame Z"
+      ],
+      "dateStart": "2026-07-25T12:08:35.000Z",
+      "dateEnd": "2026-07-25T12:58:49.000Z",
+      "dateLabel": "7/25/2026, 8:08:35 PM - 7/25/2026, 8:58:49 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260725-200835-nxk5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260724-190919-tjx0",
       "title": "Squirel Halucinates",
       "commanders": [
