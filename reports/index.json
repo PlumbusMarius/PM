@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-230439-5ldg",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "dateStart": "2026-07-26T15:04:39.000Z",
+      "dateEnd": "2026-07-26T16:09:35.000Z",
+      "dateLabel": "7/26/2026, 11:04:39 PM - 7/27/2026, 12:09:35 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260726-230439-5ldg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260725-205955-alwc",
       "title": "Deyjä",
       "commanders": [
