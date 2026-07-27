@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-001305-jckl",
+      "title": "Aalleexxxxx, Swizzard The Wizard",
+      "commanders": [
+        "Aalleexxxxx",
+        "Swizzard The Wizard"
+      ],
+      "dateStart": "2026-07-27T16:13:05.000Z",
+      "dateEnd": "2026-07-27T17:17:21.000Z",
+      "dateLabel": "7/28/2026, 12:13:05 AM - 7/28/2026, 1:17:21 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260728-001305-jckl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260727-210624-osai",
       "title": "Kingofcharrs",
       "commanders": [
