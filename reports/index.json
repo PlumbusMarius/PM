@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-235436-rzhg",
+      "title": "Morticia Requiem",
+      "commanders": [
+        "Morticia Requiem"
+      ],
+      "dateStart": "2026-07-28T15:54:36.000Z",
+      "dateEnd": "2026-07-28T16:33:09.000Z",
+      "dateLabel": "7/28/2026, 11:54:36 PM - 7/29/2026, 12:33:09 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260728-235436-rzhg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260728-202047-8odk",
       "title": "Hânnîe, Josh Atreides",
       "commanders": [
