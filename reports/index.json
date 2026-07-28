@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-202047-8odk",
+      "title": "Hânnîe, Josh Atreides",
+      "commanders": [
+        "Hânnîe",
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-07-28T12:20:47.000Z",
+      "dateEnd": "2026-07-28T13:35:17.000Z",
+      "dateLabel": "7/28/2026, 8:20:47 PM - 7/28/2026, 9:35:17 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260728-202047-8odk",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260728-001305-jckl",
       "title": "Aalleexxxxx, Swizzard The Wizard",
       "commanders": [
