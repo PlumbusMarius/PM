@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-192112-7j9t",
+      "title": "Mr Draeyon",
+      "commanders": [
+        "Mr Draeyon"
+      ],
+      "dateStart": "2026-07-30T11:21:12.000Z",
+      "dateEnd": "2026-07-30T11:44:10.000Z",
+      "dateLabel": "7/30/2026, 7:21:12 PM - 7/30/2026, 7:44:10 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260730-192112-7j9t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260728-235436-rzhg",
       "title": "Morticia Requiem",
       "commanders": [
