@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-225919-0x8t",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "dateStart": "2026-07-30T14:59:19.000Z",
+      "dateEnd": "2026-07-30T16:28:34.000Z",
+      "dateLabel": "7/30/2026, 10:59:19 PM - 7/31/2026, 12:28:34 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260730-225919-0x8t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260730-192112-7j9t",
       "title": "Mr Draeyon",
       "commanders": [
