@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-224300-9wq6",
+      "title": "Amunet Starlust, Chrono Kathréftis, Morticia Requiem",
+      "commanders": [
+        "Amunet Starlust",
+        "Chrono Kathréftis",
+        "Morticia Requiem"
+      ],
+      "dateStart": "2026-07-31T14:43:00.000Z",
+      "dateEnd": "2026-07-31T16:58:19.000Z",
+      "dateLabel": "7/31/2026, 10:43:00 PM - 8/1/2026, 12:58:19 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260731-224300-9wq6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260731-191614-ukjm",
       "title": "Unknown Commander",
       "commanders": [],
