@@ -4,6 +4,27 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-191112-s8ge",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-07-31T11:11:12.000Z",
+      "dateEnd": "2026-07-31T12:26:33.000Z",
+      "dateLabel": "7/31/2026, 7:11:12 PM - 7/31/2026, 8:26:33 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260731-191112-s8ge",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260730-225919-0x8t",
       "title": "Chrono Kathréftis",
       "commanders": [
