@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-195539-93m9",
+      "title": "Josh Atreides, Squirel Halucinates",
+      "commanders": [
+        "Josh Atreides",
+        "Squirel Halucinates"
+      ],
+      "guild": null,
+      "dateStart": "2026-08-02T11:55:39.000Z",
+      "dateEnd": "2026-08-03T15:25:37.000Z",
+      "dateLabel": "8/2/2026, 7:55:39 PM - 8/3/2026, 11:25:37 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260802-195539-93m9",
+      "summary": {
+        "borderlandsPct": 0.3548387096774194,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260731-224300-9wq6",
       "title": "Amunet Starlust, Chrono Kathréftis, Morticia Requiem",
       "commanders": [
