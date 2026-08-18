@@ -4,6 +4,47 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-200111-p1ch",
+      "title": "Hañga, Josh Atreides, Pettefania, Raia Plaguebloom",
+      "commanders": [
+        "Hañga",
+        "Josh Atreides",
+        "Pettefania",
+        "Raia Plaguebloom"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-08-18T12:01:11.000Z",
+      "dateEnd": "2026-08-18T14:09:13.000Z",
+      "dateLabel": "8/18/2026, 8:01:11 PM - 8/18/2026, 10:09:13 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260818-200111-p1ch",
+      "summary": {
+        "borderlandsPct": 0.5151515151515151,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260807-214049-b2z3",
       "title": "Josh Atreides, Morticia Requiem",
       "commanders": [
