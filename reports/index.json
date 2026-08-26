@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-220410-ywzq",
+      "title": "Cleanse No Stab Yes",
+      "commanders": [
+        "Cleanse No Stab Yes"
+      ],
+      "guild": {
+        "id": "F3752ED4-C6D2-ED11-8465-0228F2FB5E53",
+        "name": "Ji By Ren",
+        "tag": "Jiby"
+      },
+      "dateStart": "2026-08-26T14:04:10.000Z",
+      "dateEnd": "2026-08-26T14:54:00.332Z",
+      "dateLabel": "8/26/2026, 10:04:10 PM - 8/26/2026, 10:54:00 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260826-220410-ywzq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260826-200913-awqa",
       "title": "King Tarävangian",
       "commanders": [
