@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-200913-awqa",
+      "title": "King Tarävangian",
+      "commanders": [
+        "King Tarävangian"
+      ],
+      "guild": {
+        "id": "11B3A173-6B5E-F111-BB1E-129A72F3745D",
+        "name": "Alipin Ng",
+        "tag": "HIWA"
+      },
+      "dateStart": "2026-08-26T12:09:13.000Z",
+      "dateEnd": "2026-08-26T13:34:15.244Z",
+      "dateLabel": "8/26/2026, 8:09:13 PM - 8/26/2026, 9:34:15 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260826-200913-awqa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260818-200111-p1ch",
       "title": "Hañga, Josh Atreides, Pettefania, Raia Plaguebloom",
       "commanders": [
