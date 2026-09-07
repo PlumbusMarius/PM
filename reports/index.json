@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-000959-iq8f",
+      "title": "Hänníè",
+      "commanders": [
+        "Hänníè"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-09-07T16:09:59.000Z",
+      "dateEnd": "2026-09-07T16:45:29.615Z",
+      "dateLabel": "9/8/2026, 12:09:59 AM - 9/8/2026, 12:45:29 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260908-000959-iq8f",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260826-220410-ywzq",
       "title": "Cleanse No Stab Yes",
       "commanders": [
