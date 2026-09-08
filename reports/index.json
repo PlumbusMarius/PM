@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-214908-zo5b",
+      "title": "Akari Murasame",
+      "commanders": [
+        "Akari Murasame"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-09-08T13:49:08.000Z",
+      "dateEnd": "2026-09-08T14:43:13.473Z",
+      "dateLabel": "9/8/2026, 9:49:08 PM - 9/8/2026, 10:43:13 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260908-214908-zo5b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260908-000959-iq8f",
       "title": "Hänníè",
       "commanders": [
