@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-222730-cfci",
+      "title": "Operator Smeoxe",
+      "commanders": [
+        "Operator Smeoxe"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-09-10T14:27:30.000Z",
+      "dateEnd": "2026-09-10T15:16:20.912Z",
+      "dateLabel": "9/10/2026, 10:27:30 PM - 9/10/2026, 11:16:20 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260910-222730-cfci",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260908-214908-zo5b",
       "title": "Akari Murasame",
       "commanders": [
