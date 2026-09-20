@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-173657-i20g",
+      "title": "Mauri The Great",
+      "commanders": [
+        "Mauri The Great"
+      ],
+      "guild": {
+        "id": "7795AC53-EB5D-F111-BB0A-0225ACD401EB",
+        "name": "Adequate Content",
+        "tag": "AC"
+      },
+      "dateStart": "2026-09-20T09:36:57.000Z",
+      "dateEnd": "2026-09-20T11:26:22.929Z",
+      "dateLabel": "9/20/2026, 5:36:57 PM - 9/20/2026, 7:26:22 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260920-173657-i20g",
+      "summary": {
+        "borderlandsPct": 0.35294117647058826,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260917-202839-9yww",
       "title": "Bleyze Harlot",
       "commanders": [
