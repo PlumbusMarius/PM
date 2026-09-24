@@ -5,6 +5,45 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260924-203315-vzh0",
+      "title": "Bleyze Harlot, Tyorlin",
+      "commanders": [
+        "Bleyze Harlot",
+        "Tyorlin"
+      ],
+      "guild": {
+        "id": "883E8523-083C-44EC-84DD-6EEA97FD5C7D",
+        "name": "Grave Dancers",
+        "tag": "GD"
+      },
+      "dateStart": "2026-09-24T12:33:15.000Z",
+      "dateEnd": "2026-09-24T15:02:38.009Z",
+      "dateLabel": "9/24/2026, 8:33:15 PM - 9/24/2026, 11:02:38 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260924-203315-vzh0",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260922-211819-bdm7",
       "title": "Mizuki Ayaka",
       "commanders": [
