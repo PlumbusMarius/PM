@@ -5,6 +5,41 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260928-205435-4qcr",
+      "title": "Hànnie, Hänníè, Publius Marius",
+      "commanders": [
+        "Hànnie",
+        "Hänníè",
+        "Publius Marius"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-09-28T12:54:35.000Z",
+      "dateEnd": "2026-09-28T15:45:11.952Z",
+      "dateLabel": "9/28/2026, 8:54:35 PM - 9/28/2026, 11:45:11 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260928-205435-4qcr",
+      "summary": {
+        "borderlandsPct": 0.04838709677419355,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 59,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260928-083427-emby",
       "title": "Deganation",
       "commanders": [
