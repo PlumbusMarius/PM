@@ -2,8 +2,43 @@
   "colorPalette": "crimson-red",
   "glassSurfaces": true,
   "glassmorphic": false,
-  "axiDesign": true,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260929-202319-skw1",
+      "title": "Hannîè, Hànnie, Hänníè",
+      "commanders": [
+        "Hannîè",
+        "Hànnie",
+        "Hänníè"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-09-29T12:23:19.000Z",
+      "dateEnd": "2026-09-29T14:56:36.145Z",
+      "dateLabel": "9/29/2026, 8:23:19 PM - 9/29/2026, 10:56:36 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20260929-202319-skw1",
+      "summary": {
+        "borderlandsPct": 0.05,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20260929-081143-b2s0",
       "title": "T B E J A Y C E",
