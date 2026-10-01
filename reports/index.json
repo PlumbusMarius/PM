@@ -1,9 +1,38 @@
 {
   "colorPalette": "crimson-red",
+  "axiTheme": "glass",
+  "glass": true,
   "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261001-214023-oku3",
+      "title": "Gillette Skinguard, Hánnie",
+      "commanders": [
+        "Gillette Skinguard",
+        "Hánnie"
+      ],
+      "guild": {
+        "id": "50A27C71-E8B8-F111-BB22-12396678E461",
+        "name": "Olala Sa Giling Ko",
+        "tag": "MaPa"
+      },
+      "dateStart": "2026-10-01T13:40:23.000Z",
+      "dateEnd": "2026-10-01T14:35:08.466Z",
+      "dateLabel": "10/1/2026, 9:40:23 PM - 10/1/2026, 10:35:08 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261001-214023-oku3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20260930-204843-uezy",
       "title": "Hannîè",
