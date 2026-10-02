@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261002-111348-ihf1",
+      "title": "Itz In Toodeep",
+      "commanders": [
+        "Itz In Toodeep"
+      ],
+      "guild": {
+        "id": "76454A63-00FA-482D-837D-C419C28C6AED",
+        "name": "Frustrating All The Experts",
+        "tag": "FATE"
+      },
+      "dateStart": "2026-10-02T03:13:48.000Z",
+      "dateEnd": "2026-10-02T04:56:30.282Z",
+      "dateLabel": "10/2/2026, 11:13:48 AM - 10/2/2026, 12:56:30 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261002-111348-ihf1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261001-205556-yb0p",
       "title": "Gillette Skinguard, Hánnie",
       "commanders": [
