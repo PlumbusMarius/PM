@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261002-205153-2kin",
+      "title": "Hânnie",
+      "commanders": [
+        "Hânnie"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-10-02T12:51:53.000Z",
+      "dateEnd": "2026-10-02T14:28:45.342Z",
+      "dateLabel": "10/2/2026, 8:51:53 PM - 10/2/2026, 10:28:45 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261002-205153-2kin",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261002-111348-ihf1",
       "title": "Itz In Toodeep",
       "commanders": [
