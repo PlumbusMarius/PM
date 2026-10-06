@@ -3,7 +3,45 @@
   "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-205743-v7c9",
+      "title": "Operator Smeoxe",
+      "commanders": [
+        "Operator Smeoxe"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-10-06T12:57:43.000Z",
+      "dateEnd": "2026-10-06T13:56:19.809Z",
+      "dateLabel": "10/6/2026, 8:57:43 PM - 10/6/2026, 9:56:19 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261006-205743-v7c9",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0.0967741935483871,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20261002-205153-2kin",
       "title": "Hânnie",
