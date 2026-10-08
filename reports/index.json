@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261008-210806-ra8b",
+      "title": "Hánnie, Hânnie",
+      "commanders": [
+        "Hánnie",
+        "Hânnie"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-10-08T13:08:06.000Z",
+      "dateEnd": "2026-10-08T14:45:36.885Z",
+      "dateLabel": "10/8/2026, 9:08:06 PM - 10/8/2026, 10:45:36 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261008-210806-ra8b",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261006-205743-v7c9",
       "title": "Operator Smeoxe",
       "commanders": [
