@@ -5,9 +5,44 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.2"
   },
   "entries": [
+    {
+      "id": "20261009-112842-w7jx",
+      "title": "Aurora Faelyn, Vlyndra",
+      "commanders": [
+        "Aurora Faelyn",
+        "Vlyndra"
+      ],
+      "guild": {
+        "id": "90EE62DE-B813-EF11-BA1F-12061042B485",
+        "name": "Vengeance Is Pips",
+        "tag": "ViP"
+      },
+      "dateStart": "2026-10-09T03:28:42.000Z",
+      "dateEnd": "2026-10-09T05:29:51.126Z",
+      "dateLabel": "10/9/2026, 11:28:42 AM - 10/9/2026, 1:29:51 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261009-112842-w7jx",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0.7,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20261008-210806-ra8b",
       "title": "Hánnie, Hânnie",
