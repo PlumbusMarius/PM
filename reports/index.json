@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261013-102611-ge6w",
+      "title": "Vashot",
+      "commanders": [
+        "Vashot"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-10-13T02:26:11.000Z",
+      "dateEnd": "2026-10-13T02:51:04.375Z",
+      "dateLabel": "10/13/2026, 10:26:11 AM - 10/13/2026, 10:51:04 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261013-102611-ge6w",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261012-210154-10gr",
       "title": "Corruptor Mikkael, Hânnie",
       "commanders": [
