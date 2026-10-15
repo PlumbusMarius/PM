@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261015-201542-gez6",
+      "title": "Corruptor Mikkael",
+      "commanders": [
+        "Corruptor Mikkael"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-10-15T12:15:42.000Z",
+      "dateEnd": "2026-10-15T13:45:34.766Z",
+      "dateLabel": "10/15/2026, 8:15:42 PM - 10/15/2026, 9:45:34 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261015-201542-gez6",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261013-110436-rrgx",
       "title": "Cmdr Valkyrie",
