@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261022-195848-o9cd",
+      "title": "Hânnie, Josh Atreides",
+      "commanders": [
+        "Hânnie",
+        "Josh Atreides"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-10-22T11:58:48.000Z",
+      "dateEnd": "2026-10-22T14:02:21.499Z",
+      "dateLabel": "10/22/2026, 7:58:48 PM - 10/22/2026, 10:02:21 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261022-195848-o9cd",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0.05,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261021-212531-jh9d",
       "title": "Aangus Safe Keeper",
       "commanders": [
