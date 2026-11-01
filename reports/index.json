@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-234635-ab3u",
+      "title": "May Evergreen",
+      "commanders": [
+        "May Evergreen"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-01T15:46:35.000Z",
+      "dateEnd": "2026-11-01T16:32:41.836Z",
+      "dateLabel": "11/1/2026, 11:46:35 PM - 11/2/2026, 12:32:41 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261101-234635-ab3u",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261101-222412-t17l",
       "title": "Unknown Commander",
       "commanders": [],
