@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-211252-9cuk",
+      "title": "Gillette Skinguard",
+      "commanders": [
+        "Gillette Skinguard"
+      ],
+      "guild": {
+        "id": "50A27C71-E8B8-F111-BB22-12396678E461",
+        "name": "Olala Sa Giling Ko",
+        "tag": "MaPa"
+      },
+      "dateStart": "2026-11-03T13:12:52.000Z",
+      "dateEnd": "2026-11-03T14:36:02.441Z",
+      "dateLabel": "11/3/2026, 9:12:52 PM - 11/3/2026, 10:36:02 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261103-211252-9cuk",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20261101-234635-ab3u",
       "title": "May Evergreen",
