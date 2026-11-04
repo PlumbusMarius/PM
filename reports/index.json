@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261104-084900-44bp",
+      "title": "Angel Of Destiny O",
+      "commanders": [
+        "Angel Of Destiny O"
+      ],
+      "guild": {
+        "id": "DB2B637A-D467-4DA5-A90B-3036C33EFE38",
+        "name": "Bad Aces",
+        "tag": "BADA"
+      },
+      "dateStart": "2026-11-04T00:49:00.000Z",
+      "dateEnd": "2026-11-04T03:58:43.246Z",
+      "dateLabel": "11/4/2026, 8:49:00 AM - 11/4/2026, 11:58:43 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261104-084900-44bp",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0.925,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20261103-211252-9cuk",
       "title": "Gillette Skinguard",
       "commanders": [
