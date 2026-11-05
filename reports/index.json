@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261105-131516-qrop",
+      "title": "Vi P Korpse",
+      "commanders": [
+        "Vi P Korpse"
+      ],
+      "guild": {
+        "id": "90EE62DE-B813-EF11-BA1F-12061042B485",
+        "name": "Vengeance Is Pips",
+        "tag": "ViP"
+      },
+      "dateStart": "2026-11-05T05:15:16.000Z",
+      "dateEnd": "2026-11-05T05:38:24.331Z",
+      "dateLabel": "11/5/2026, 1:15:16 PM - 11/5/2026, 1:38:24 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261105-131516-qrop",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261105-081514-jr2m",
       "title": "R Ó N Î N",
       "commanders": [
