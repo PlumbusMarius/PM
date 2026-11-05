@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261105-081514-jr2m",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-05T00:15:14.000Z",
+      "dateEnd": "2026-11-05T01:00:39.433Z",
+      "dateLabel": "11/5/2026, 8:15:14 AM - 11/5/2026, 9:00:39 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261105-081514-jr2m",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261104-084900-44bp",
       "title": "Angel Of Destiny O",
       "commanders": [
