@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261106-203410-nt44",
+      "title": "Tyorlin",
+      "commanders": [
+        "Tyorlin"
+      ],
+      "guild": {
+        "id": "8E213080-CA81-4CB4-BA53-C5AE38620CD6",
+        "name": "Few Among Many",
+        "tag": "FAM"
+      },
+      "dateStart": "2026-11-06T12:34:10.000Z",
+      "dateEnd": "2026-11-06T13:10:19.409Z",
+      "dateLabel": "11/6/2026, 8:34:10 PM - 11/6/2026, 9:10:19 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261106-203410-nt44",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261106-084441-1ec9",
       "title": "Drakarys Soulripper",
       "commanders": [
