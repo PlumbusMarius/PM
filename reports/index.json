@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261106-230228-3z59",
+      "title": "Hánnie, Hânnie",
+      "commanders": [
+        "Hánnie",
+        "Hânnie"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-11-06T15:02:28.000Z",
+      "dateEnd": "2026-11-06T16:15:04.892Z",
+      "dateLabel": "11/6/2026, 11:02:28 PM - 11/7/2026, 12:15:04 AM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261106-230228-3z59",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261106-203410-nt44",
       "title": "Tyorlin",
       "commanders": [
