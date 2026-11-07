@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-174103-udu2",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-11-07T09:41:03.000Z",
+      "dateEnd": "2026-11-07T11:08:26.060Z",
+      "dateLabel": "11/7/2026, 5:41:03 PM - 11/7/2026, 7:08:26 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261107-174103-udu2",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20261106-230228-3z59",
       "title": "Hánnie, Hânnie",
