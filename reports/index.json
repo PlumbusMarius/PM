@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261108-130608-6jpf",
+      "title": "Owlocution Lessons",
+      "commanders": [
+        "Owlocution Lessons"
+      ],
+      "guild": {
+        "id": "76454A63-00FA-482D-837D-C419C28C6AED",
+        "name": "Frustrating All The Experts",
+        "tag": "FATE"
+      },
+      "dateStart": "2026-11-08T05:06:08.000Z",
+      "dateEnd": "2026-11-08T06:01:51.413Z",
+      "dateLabel": "11/8/2026, 1:06:08 PM - 11/8/2026, 2:01:51 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261108-130608-6jpf",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261107-210523-5tq0",
       "title": "Sêxy Riddle",
       "commanders": [
