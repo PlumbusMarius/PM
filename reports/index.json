@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261109-113945-dvyh",
+      "title": "Owlocution Lessons",
+      "commanders": [
+        "Owlocution Lessons"
+      ],
+      "guild": {
+        "id": "76454A63-00FA-482D-837D-C419C28C6AED",
+        "name": "Frustrating All The Experts",
+        "tag": "FATE"
+      },
+      "dateStart": "2026-11-09T03:39:45.000Z",
+      "dateEnd": "2026-11-09T06:37:10.360Z",
+      "dateLabel": "11/9/2026, 11:39:45 AM - 11/9/2026, 2:37:10 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261109-113945-dvyh",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261108-130608-6jpf",
       "title": "Owlocution Lessons",
