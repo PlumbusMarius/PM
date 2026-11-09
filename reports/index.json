@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261109-174540-ushm",
+      "title": "Mr Draeyon",
+      "commanders": [
+        "Mr Draeyon"
+      ],
+      "guild": {
+        "id": "19DBFD41-F09D-F011-8465-02315AB41281",
+        "name": "Quick Build Siege",
+        "tag": "PALS"
+      },
+      "dateStart": "2026-11-09T09:45:40.000Z",
+      "dateEnd": "2026-11-09T10:42:39.341Z",
+      "dateLabel": "11/9/2026, 5:45:40 PM - 11/9/2026, 6:42:39 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261109-174540-ushm",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261109-113945-dvyh",
       "title": "Owlocution Lessons",
       "commanders": [
