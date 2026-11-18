@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261118-181133-denm",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-11-18T10:11:33.000Z",
+      "dateEnd": "2026-11-18T10:59:47.526Z",
+      "dateLabel": "11/18/2026, 6:11:33 PM - 11/18/2026, 6:59:47 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261118-181133-denm",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20261109-174540-ushm",
       "title": "Mr Draeyon",
