@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-210003-q3i0",
+      "title": "Riddle Unleashed",
+      "commanders": [
+        "Riddle Unleashed"
+      ],
+      "guild": {
+        "id": "BBC7CDF4-0241-E611-80D4-E4115BDFF975",
+        "name": "World Elite",
+        "tag": "WE"
+      },
+      "dateStart": "2026-11-25T13:00:03.000Z",
+      "dateEnd": "2026-11-25T14:10:30.093Z",
+      "dateLabel": "11/25/2026, 9:00:03 PM - 11/25/2026, 10:10:30 PM",
+      "url": "https://PlumbusMarius.github.io/PM/?report=20261125-210003-q3i0",
+      "publishedBy": "PlumbusMarius",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261118-181133-denm",
       "title": "Squirel Halucinates",
       "commanders": [
